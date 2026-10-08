@@ -1,0 +1,15 @@
+# Private device state and credentials
+data/
+.env
+.env.*
+*.plist
+# Bundled components are distributed as release assets
+runtime/
+packages/
+# Generated files
+__pycache__/
+*.py[cod]
+.scratch/
+*.zip
+*.sha256
+.venv/
