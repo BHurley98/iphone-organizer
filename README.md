@@ -2,6 +2,8 @@
 
 A portable Windows app for organizing a trusted USB-connected iPhone, with a visual interface and a shared MCP server.
 
+![iPhone Organizer showing equal-size Home Screen pages, real app icons, and iPhone wallpaper](docs/screenshot.jpg)
+
 ## Download
 
 Get the portable Windows x64 app from [Releases](https://github.com/BHurley98/iphone-organizer/releases/latest). The source checkout does not include the bundled runtime or device packages.
